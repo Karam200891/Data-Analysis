@@ -1,1 +1,4 @@
-# Data-Analysis
+Avacado Analysis- This project uses analysis data with the help of python. Tool used is Jupyter notebook. The data is analysed keeping various factors like price, region, profit into consideration. The analysis is important to make investment decisions in a specific country. Source of data- 'Kaggle'
+Medical Treatment Analysis- The analysis is made with the help of python again.Tools used is Jupyter Notebook. Briefing a potential investor on the performance, revenues and profits of a medical company across the globe.
+Netflix Analysis- The analysis is made using Microsoft Power BI. Data set is taken from 'Kaggle'. This has basically Analyzed and visualized data of Netflix Tv shows and movies based on factors like genre, year.
+Website Extraction- In this a website 'koehlerhomedecor' is used for analysis. Data is extracted from this website first followed by creating table. Then python is used for further analysis of data.
